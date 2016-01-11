@@ -1,0 +1,14 @@
+{
+  "name": "duplicatefinder",
+  "version": "0.0.1",
+  "description": "Find duplicate names in a given array of javascript files.",
+  "main": "checkDups.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anders Weijnitz",
+  "license": "MIT",
+  "dependencies": {
+    "uglify-js": "^2.6.1"
+  }
+}

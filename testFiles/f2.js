@@ -1,0 +1,1 @@
+var f2 = function f2 () {};
